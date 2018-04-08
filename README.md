@@ -8,3 +8,5 @@ Table of Contents:
 
 2. Projects
 2.1.
+
+3. Tips and Tricks
